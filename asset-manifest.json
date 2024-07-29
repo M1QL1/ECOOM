@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ECOOM/static/css/main.b1e6f3ab.css",
+    "main.js": "/ECOOM/static/js/main.4d9e7910.js",
+    "static/media/logo.png": "/ECOOM/static/media/logo.d2e09fb917484d5817c6.png",
+    "index.html": "/ECOOM/index.html",
+    "main.b1e6f3ab.css.map": "/ECOOM/static/css/main.b1e6f3ab.css.map",
+    "main.4d9e7910.js.map": "/ECOOM/static/js/main.4d9e7910.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1e6f3ab.css",
+    "static/js/main.4d9e7910.js"
+  ]
+}
